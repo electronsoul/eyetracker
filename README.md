@@ -1,17 +1,15 @@
-# eyetracker
-# Navivate Computer With Your Eyes
+# Navigate Computer With Your Eyes
 # INSTRUCTIONS
 # To Compile
-1. Install PyCharm
-2. Install Python > 3.8
-3. Install CMake
-4. run Following In Terminal
-  a) pip install opencv-python
-  b) pip install dlib
-  c) pip install mouse
-  d) pip install numpy
-  e) pip install PyAutoGUI
-  
+ 1. Install PyCharm
+ 2. Install Python > 3.8
+ 3. Install CMake
+ 4. run Following In Terminal
+	 - pip install opencv-python
+	 - pip install dlib
+	 - pip install  mouse
+	 - pip install numpy
+	 - pip install PyAutoGUI
 # To Use
 1. Move Head To Move Cursor
 2. When On Desired position, press h on keyboard(2-3 times)
@@ -20,3 +18,4 @@
 Repeat Above Steps
 # To Exit
 If Camera Window Is Not In Focus, press alt+tab and select camera window, and press q
+
