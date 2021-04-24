@@ -2,9 +2,9 @@
 # Navivate Computer With Your Eyes
 # INSTRUCTIONS
 # To Compile
-1. Install Pycharm
+1. Install PyCharm
 2. Install Python > 3.8
-3. Install Cmake
+3. Install CMake
 4. run Following In Terminal
   a) pip install opencv-python
   b) pip install dlib
