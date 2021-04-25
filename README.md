@@ -4,7 +4,8 @@
  1. Install PyCharm
  2. Install Python > 3.8
  3. Install CMake
- 4. run Following In Terminal
+ 4. Open project In PyCharm
+ 5. run Following In Terminal
 	 - pip install opencv-python
 	 - pip install dlib
 	 - pip install  mouse
