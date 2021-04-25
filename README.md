@@ -20,5 +20,5 @@ Repeat Above Steps
 # To Exit
 If Camera Window Is Not In Focus, press alt+tab and select camera window, and press q
 # Downloads
-For Windows Compiled Binary Can Be Found At
+Compiled Binary For Windows Can Be Obtained From: 
 <https://drive.google.com/file/d/1UVhNbh1u1zIw5yVDma68nF-Hoj7xo60H/view>
